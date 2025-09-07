@@ -5,15 +5,6 @@ This app features a **glassmorphic display**, **3D-ish buttons**, and supports b
 
 ---
 
-## Screenshots
-
-## Screenshots
-
-![Calculator Screenshot](assets/images/18af9b19-d0a3-4125-89b4-d7a56a5d0937.png)
-*Modern Flutter Calculator with stylish buttons and dark theme.*
-
----
-
 ## Features ✨
 
 - Modern **glassmorphism UI** with gradient background  
